@@ -16,7 +16,7 @@ function App() {
       completed: false
     }
   ];
-
+  console.log(todosArray);
   return (
    <div>
     <CreateTodo></CreateTodo>
