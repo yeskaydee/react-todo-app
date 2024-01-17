@@ -9,3 +9,8 @@
 
 //initialize a node packet <br>
 //put a package.json
+
+
+### To fix
+1. Infinite request to get todos
+2. Not yet implemented updateTodos

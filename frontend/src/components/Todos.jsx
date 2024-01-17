@@ -1,5 +1,5 @@
 export function Todos({todos}){
-    console.log(todos);
+console.log(todos);
     return (<div>
 
          {todos && todos.map(function (todo, index){
