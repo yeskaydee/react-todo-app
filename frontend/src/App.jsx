@@ -14,18 +14,18 @@ function App() {
 
   })
 
-  const todosArray = [
-    {
-      title: "asad",
-      description: "dsd",
-      completed: false
-    },
-    {
-      title: "asasdvd",
-      description: "dsvsdd",
-      completed: false
-    }
-  ];
+  // const todosArray = [
+  //   {
+  //     title: "asad",
+  //     description: "dsd",
+  //     completed: false
+  //   },
+  //   {
+  //     title: "asasdvd",
+  //     description: "dsvsdd",
+  //     completed: false
+  //   }
+  // ];
   // console.log(todosArray);
   return (
    <div>
